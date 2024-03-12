@@ -1,0 +1,8 @@
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: auth-map
+data:
+  PORT:"9057"
+  SERVICE_NAME:"aset auth service"
+  AUTHOR:"EDGAR JN"
